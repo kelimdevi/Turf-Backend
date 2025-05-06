@@ -1,6 +1,4 @@
 package com.example.cricket_Turf.Entity;
-
-
 import jakarta.persistence.*;
 
 @Entity
